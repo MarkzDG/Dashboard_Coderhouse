@@ -20,10 +20,6 @@ El repositorio incluye los siguientes archivos:
 2. Abre el documento `Dashboard - Animes.pdf` para explorar el tablero interactivo.
 3. Si deseas obtener más detalles sobre el proyecto en su conjunto, consulta el archivo `Proyecto Final - Animes .pdf`.
 
-## Contribuciones
-
-Este proyecto fue creado como parte de un curso y actualmente no aceptamos contribuciones externas. Sin embargo, si tienes alguna sugerencia o comentario, no dudes en ponerte en contacto con nosotros.
-
 ## Créditos
 
 - [@MarkzDG](https://github.com/MarkzDG)
